@@ -7,8 +7,8 @@ import 'package:intl/intl.dart';
 import 'package:offering_collection_app/components/my_button.dart';
 import 'package:offering_collection_app/helper/helper_function.dart';
 import 'package:offering_collection_app/model/church_model.dart';
-import 'package:offering_collection_app/pages/search_page.dart';
-import 'package:offering_collection_app/pages/profile_screen.dart';
+import 'package:offering_collection_app/screens/search_page.dart';
+import 'package:offering_collection_app/screens/profile_screen.dart';
 
 class GivePage extends StatefulWidget {
   final Church church;

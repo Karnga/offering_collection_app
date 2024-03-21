@@ -2,9 +2,9 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:offering_collection_app/model/church_model.dart';
-import 'package:offering_collection_app/pages/give_page.dart';
-import 'package:offering_collection_app/pages/profile_screen.dart';
-import 'package:offering_collection_app/pages/search_page.dart';
+import 'package:offering_collection_app/screens/give_page.dart';
+import 'package:offering_collection_app/screens/profile_screen.dart';
+import 'package:offering_collection_app/screens/search_page.dart';
 
 class ChurchDetailsPage extends StatefulWidget {
   const ChurchDetailsPage({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:offering_collection_app/pages/church_details_page.dart';
-import 'package:offering_collection_app/pages/home_page.dart';
-import 'package:offering_collection_app/pages/profile_screen.dart';
+import 'package:offering_collection_app/screens/church_details_page.dart';
+import 'package:offering_collection_app/screens/home_page.dart';
+import 'package:offering_collection_app/screens/profile_screen.dart';
 
 class NewNav extends StatefulWidget {
    const NewNav({super.key});

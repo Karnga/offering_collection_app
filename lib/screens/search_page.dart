@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:offering_collection_app/model/church_model.dart';
-import 'package:offering_collection_app/pages/give_page.dart';
+import 'package:offering_collection_app/screens/give_page.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({super.key});
